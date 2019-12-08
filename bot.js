@@ -1,8 +1,8 @@
 console.log('loading secret...');
-const secrets = require('./secret');
+const secrets = require('./secret.js');
 
 console.log('loading flavor text...');
-const flavor = require('./flavorText');
+const flavor = require('./flavorText.js');
 
 console.log('loading tarot cards...');
 const tarotCards = require('./TarotCards.json').cards;
