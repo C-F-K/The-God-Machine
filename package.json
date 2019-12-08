@@ -5,9 +5,13 @@
   "main": "TGM.js",
   "author": "Alex Ates",
   "dependencies": {
+    "@discordjs/uws": "^10.149.0",
     "discord.io": "^2.5.3",
     "discord.js": "^11.3.0",
-    "uws": "^100.0.1",
+    "erlpack": "github:discordapp/erlpack",
+    "libsodium-wrappers": "^0.5.4",
+    "opusscript": "0.0.6",
+    "uws": "^9.14.0",
     "winston": "^2.4.0"
   }
 }
