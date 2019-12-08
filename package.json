@@ -1,5 +1,5 @@
 {
-  "name": "The God Machine",
+  "name": "the-god-machine",
   "version": "0.1.0",
   "description": "bot that can be used to roll dice according to the rules of Chronicles of Darkness/(n)WoD 2ed.",
   "main": "TGM.js",
@@ -7,6 +7,7 @@
   "dependencies": {
     "discord.io": "^2.5.3",
     "discord.js": "^11.3.0",
+    "uws": "^100.0.1",
     "winston": "^2.4.0"
   }
 }
